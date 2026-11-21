@@ -1,0 +1,35 @@
+[
+  {
+    "member id": "IND_1",
+    "feed_date": "20261120",
+    "redemptions": [
+      {
+        "txn_id": "RX10091",
+        "txn_date": "20261118",
+        "partner": "AeroLink",
+        "miles_redeemed": 12000,
+        "status": "COMPLETED"
+      },
+      {
+        "txn_id": "RX10092",
+        "txn_date": "20261119",
+        "partner": "SkyPoints",
+        "miles_redeemed": 5000,
+        "status": "PENDING"
+      }
+    ]
+  },
+  {
+    "member id": "USA_1",
+    "feed_date": "20261120",
+    "redemptions": [
+      {
+        "txn_id": "RX10093",
+        "txn_date": "20261115",
+        "partner": "GlobalWings",
+        "miles_redeemed": 8500,
+        "status": "COMPLETED"
+      }
+    ]
+  }
+]
